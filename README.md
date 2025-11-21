@@ -1,1 +1,1 @@
-# Termodinamica_Estatistica_Polimeros
+# Mecânica Estatística para entender a formação de cadeias poliméricas
